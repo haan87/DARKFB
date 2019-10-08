@@ -3,7 +3,7 @@
 <ul>
 <li><code>pkg install git python2</code></li>
 <li><code>pip2 install --upgrade pip</code></li>
-<li><code>git clone https://github.com/haan87/DARKFB</code></li>
+<li><code>git clone https://github.com/haanSec/DARKFB</code></li>
 <li><code>cd DARKFB</code></li>
 <li><code>pip2 install -r requirements.txt</code></li>
 <li><code>python2 DarkFB.py</code></li>
